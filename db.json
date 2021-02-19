@@ -33,7 +33,13 @@
  "Payment_Method_Code": "CASH",
  "Fax_No": "111",
  "E_Mail": "test@test.de",
- "Contact": "Contactde"
+ "Contact": "Contactde",
+ "Customer_Group_No": "GR1",
+"Customer_Price_Group": "WHA",
+"Balance_LCY": 63009.04,
+"Last_Date_Modified": "2020-07-02",
+"Shipment_Method_Code": "HATAK",
+"City": "Krakow"
 },
 {
  "No": "test_nr_2",
@@ -68,7 +74,13 @@
  "Payment_Method_Code": "CASH",
  "Fax_No": "111",
  "E_Mail": "test@test.de",
- "Contact": "Contactde"
+ "Contact": "Contactde",
+ "Customer_Group_No": "GR1",
+"Customer_Price_Group": "WHA",
+"Balance_LCY": 63009.04,
+"Last_Date_Modified": "2020-07-02",
+"Shipment_Method_Code": "HATAK",
+"City": "Krakow"
 },
 {
  "No": "test_nr_3",
@@ -103,7 +115,13 @@
  "Payment_Method_Code": "CASH",
  "Fax_No": "111",
  "E_Mail": "test@test.de",
- "Contact": "Contactde"
+ "Contact": "Contactde",
+ "Customer_Group_No": "GR1",
+"Customer_Price_Group": "WHA",
+"Balance_LCY": 63009.04,
+"Last_Date_Modified": "2020-07-02",
+"Shipment_Method_Code": "HATAK",
+"City": "Krakow"
 },
 {
  "No": "test_nr_4",
@@ -138,7 +156,13 @@
  "Payment_Method_Code": "CASH",
  "Fax_No": "111",
  "E_Mail": "test@test.de",
- "Contact": "Contactde"
+ "Contact": "Contactde",
+ "Customer_Group_No": "GR1",
+"Customer_Price_Group": "WHA",
+"Balance_LCY": 63009.04,
+"Last_Date_Modified": "2020-07-02",
+"Shipment_Method_Code": "HATAK",
+"City": "Krakow"
 },
 {
  "No": "test_nr_5",
@@ -173,7 +197,13 @@
  "Payment_Method_Code": "CASH",
  "Fax_No": "111",
  "E_Mail": "test@test.de",
- "Contact": "Contactde"
+ "Contact": "Contactde",
+ "Customer_Group_No": "GR1",
+"Customer_Price_Group": "WHA",
+"Balance_LCY": 63009.04,
+"Last_Date_Modified": "2020-07-02",
+"Shipment_Method_Code": "HATAK",
+"City": "Krakow" 
 }
   ],
   "ship2address": [
