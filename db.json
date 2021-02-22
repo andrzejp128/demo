@@ -233,8 +233,8 @@
  "Province": "10",
  "Ship_to_Adress_Province_Name": "Test12" ,
  "Shipment_Method_Code": "RBW",
- "Longitude": "",
- "Latitude": ""
+ "Longitude": "7",
+ "Latitude": "9"
  },
  {
  "Customer_No": "test_nr_1",
@@ -262,8 +262,8 @@
  "Province": "10",
  "Ship_to_Adress_Province_Name": "Test12" ,
  "Shipment_Method_Code": "RBW",
- "Longitude": "",
- "Latitude": ""
+ "Longitude": "5",
+ "Latitude": "6"
  },
  {
  "Customer_No": "test_nr_2",
@@ -291,8 +291,8 @@
  "Province": "10",
  "Ship_to_Adress_Province_Name": "Test12" ,
  "Shipment_Method_Code": "RBW",
- "Longitude": "",
- "Latitude": ""
+ "Longitude": "3",
+ "Latitude": "4"
  },
  {
  "Customer_No": "test_nr_3",
@@ -320,8 +320,8 @@
  "Province": "10",
  "Ship_to_Adress_Province_Name": "Test12" ,
  "Shipment_Method_Code": "RBW",
- "Longitude": "",
- "Latitude": ""
+ "Longitude": "1",
+ "Latitude": "2"
  }
   ],
   "profile": {
