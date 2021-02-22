@@ -208,7 +208,7 @@
   ],
   "ship2address": [
    {
- "Customer_No": "CST001",
+ "Customer_No": "test_nr_1",
  "Code": "0001",
  "Name": "DC Washington" ,
  "Address": "313 Testowa " ,
@@ -237,7 +237,7 @@
  "Latitude": ""
  },
  {
- "Customer_No": "CST001",
+ "Customer_No": "test_nr_1",
  "Code": "0001",
  "Name": "DC Washington 2" ,
  "Address": "313 Testowa " ,
@@ -266,7 +266,7 @@
  "Latitude": ""
  },
  {
- "Customer_No": "CST002",
+ "Customer_No": "test_nr_2",
  "Code": "0002",
  "Name": "DC Washington 022" ,
  "Address": "313 Testowa " ,
@@ -295,7 +295,7 @@
  "Latitude": ""
  },
  {
- "Customer_No": "CST002",
+ "Customer_No": "test_nr_3",
  "Code": "0002",
  "Name": "DC Washington X22" ,
  "Address": "313 Testowa " ,
