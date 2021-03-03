@@ -324,6 +324,41 @@
  "Latitude": "2"
  }
   ],
+   "products": [
+     {
+       "No": "110AAA",
+       "Status": "",
+       "Description": "desc 1155gx10x10" ,
+       "Inventory_Posting_Group": "FA-FOOD",
+       "VAT_Prod_Posting_Group": "AA1",
+       "Item_Category_Code": "DOMESTIC",
+       "Blocked": false,
+       "Last_Date_Modified": "2020-10-21",
+       "Sales_Unit_of_Measure": "CARTON"
+     },
+      {
+       "No": "21AAA",
+       "Status": "",
+       "Description": "desc 1155gx10x10" ,
+       "Inventory_Posting_Group": "FA-FOOD",
+       "VAT_Prod_Posting_Group": "AA1",
+       "Item_Category_Code": "DOMESTIC",
+       "Blocked": false,
+       "Last_Date_Modified": "2020-10-21",
+       "Sales_Unit_of_Measure": "CARTON"
+     },
+      {
+       "No": "31AAA",
+       "Status": "ACTIVE",
+       "Description": "desc 1155gx10x10" ,
+       "Inventory_Posting_Group": "FA-FOOD",
+       "VAT_Prod_Posting_Group": "AA1",
+       "Item_Category_Code": "DOMESTIC",
+       "Blocked": false,
+       "Last_Date_Modified": "2020-10-21",
+       "Sales_Unit_of_Measure": "CARTON"
+     }
+     ]
   "profile": {
     "name": "typicode"
   }
