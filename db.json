@@ -332,7 +332,7 @@
 "Inventory_Posting_Group": "FA-FOOD",
 "VAT_Prod_Posting_Group": "AA1",
 "Item_Category_Code": "DOMESTIC",
-"Blocked": false,
+"Blocked": "true",
 "Last_Date_Modified": "2020-10-21",
 "Sales_Unit_of_Measure": "CARTON"
 },
@@ -343,7 +343,7 @@
  "Inventory_Posting_Group": "FA-FOOD",
  "VAT_Prod_Posting_Group": "AA1",
  "Item_Category_Code": "DOMESTIC",
- "Blocked": false,
+ "Blocked": "false",
  "Last_Date_Modified": "2020-10-21",
  "Sales_Unit_of_Measure": "CARTON"
 },
@@ -354,7 +354,7 @@
  "Inventory_Posting_Group": "FA-FOOD",
  "VAT_Prod_Posting_Group": "AA1",
  "Item_Category_Code": "DOMESTIC",
- "Blocked": false,
+ "Blocked": "false",
  "Last_Date_Modified": "2020-10-21",
  "Sales_Unit_of_Measure": "CARTON"
 }
