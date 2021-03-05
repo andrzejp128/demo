@@ -2,6 +2,7 @@
   "customers": [
    {
  "No": "test_nr_1",
+ "id": "test_nr_1",
  "Name": "Cst 1" ,
  "VAT_Registration_No": "0000600007875",
  "Credit_Limit_LCY": 10000,
@@ -43,6 +44,7 @@
 },
 {
  "No": "test_nr_2",
+ "id": "test_nr_2",
  "Name": "Cst 2" ,
  "VAT_Registration_No": "0000600007000",
  "Credit_Limit_LCY": 10000,
@@ -84,6 +86,7 @@
 },
 {
  "No": "test_nr_3",
+   "id": "test_nr_3",
  "Name": "Cst 3" ,
  "VAT_Registration_No": "0000600007875",
  "Credit_Limit_LCY": 10000,
@@ -125,6 +128,7 @@
 },
 {
  "No": "test_nr_4",
+   "id": "test_nr_4",
  "Name": "Cst 4" ,
  "VAT_Registration_No": "0000600007875",
  "Credit_Limit_LCY": 10000,
@@ -166,6 +170,7 @@
 },
 {
  "No": "test_nr_5",
+   "id": "test_nr_5",
  "Name": "Cst 5" ,
  "VAT_Registration_No": "0000600007875",
  "Credit_Limit_LCY": 10000,
@@ -209,6 +214,7 @@
   "ship2address": [
    {
  "Customer_No": "test_nr_1",
+      "id": "1",
  "Code": "0001",
  "Name": "DC Washington" ,
  "Address": "313 Testowa " ,
@@ -238,6 +244,7 @@
  },
  {
  "Customer_No": "test_nr_1",
+   "id": "2",
  "Code": "0001",
  "Name": "DC Washington 2" ,
  "Address": "313 Testowa " ,
@@ -267,6 +274,7 @@
  },
  {
  "Customer_No": "test_nr_2",
+   "id": "3",
  "Code": "0002",
  "Name": "DC Washington 022" ,
  "Address": "313 Testowa " ,
@@ -296,6 +304,7 @@
  },
  {
  "Customer_No": "test_nr_3",
+   "id": "4",
  "Code": "0002",
  "Name": "DC Washington X22" ,
  "Address": "313 Testowa " ,
