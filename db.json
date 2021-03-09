@@ -343,6 +343,7 @@
 "Item_Category_Code": "DOMESTIC",
 "Blocked": "true",
 "Last_Date_Modified": "2020-10-21",
+ "Product_Weight": "2,3",
 "Base_Unit_of_Measure": "CARTON",
 "Sales_Unit_of_Measure": "CARTON"
 },
@@ -355,6 +356,7 @@
  "Item_Category_Code": "DOMESTIC",
  "Blocked": "false",
  "Last_Date_Modified": "2020-10-21",
+  "Product_Weight": "2,3",
   "Base_Unit_of_Measure": "CARTON",
  "Sales_Unit_of_Measure": "CARTON"
 },
@@ -368,6 +370,7 @@
  "Blocked": "false",
  "Last_Date_Modified": "2020-10-21",
  "Base_Unit_of_Measure": "CARTON",
+ "Product_Weight": "2,3",
  "Sales_Unit_of_Measure": "CARTON"
 }
      ],
