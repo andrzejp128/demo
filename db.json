@@ -374,7 +374,26 @@
  "Sales_Unit_of_Measure": "CARTON"
 }
      ],
-  "profile": {
-    "name": "typicode"
-  }
+  "items-unit-of-measure":[
+{
+ "Item_No": "31AAA",
+ "Code": "CAN",
+ "Qty_per_Unit_of_Measure": 1
+ },
+ {
+ "Item_No": "31AAA",
+ "Code": "PALLET",
+ "Qty_per_Unit_of_Measure": 100
+ },
+ {
+ "Item_No": "21AAA",
+ "Code": "PALLET",
+ "Qty_per_Unit_of_Measure": 7200
+ },
+ {
+ "Item_No": "110AAA",
+ "Code": "SET",
+ "Qty_per_Unit_of_Measure": 10
+}
+    ]
 }
